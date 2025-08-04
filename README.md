@@ -51,16 +51,6 @@ zasm out -o main.s
 
 ---
 
-## Build & Requirements
-
-ZASM is written in **C/C++**.
-
-### Build Instructions
-
-> *(Build system details not provided — add your Makefile or CMake usage here if available.)*
-
----
-
 ## License
 
 **Proprietary License**
