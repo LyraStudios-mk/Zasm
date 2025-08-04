@@ -84,7 +84,3 @@ Contact: `andresrodriguezmajin@gmail.com`
 
 **ZASM for ZVM 2.4**
 Current: `v2.4.x` *(Update this as needed)*
-
----
-
-```
